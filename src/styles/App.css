@@ -1,0 +1,9 @@
+.app {
+  display: grid;
+  place-items: centre;
+}
+
+.app__body {
+  display: grid;
+  place-items: centre;
+}
