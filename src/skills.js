@@ -34,6 +34,11 @@ const skills = [
     logo: require("./assets/images/mongodb.png"),
     title: "Mongodb",
   },
+  {
+    key: 8,
+    logo: require("./assets/images/go.png"),
+    title: "Go",
+  },
 ];
 
 export default skills;
