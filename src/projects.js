@@ -1,6 +1,15 @@
 const projects = [
   {
     id: 1,
+    imgURL: require("./assets/images/dalle-2.0.png"),
+    title: "Imagine",
+    description:
+      "Imagine is a Text-to-Image generator or you can say Dalle-2.0.",
+    github: "https://github.com/nedTushar/Imagine",
+    live: "https://imaginne.netlify.app/",
+  },
+  {
+    id: 2,
     imgURL: require("./assets/images/studyGpt.png"),
     title: "StudyGpt",
     description:
