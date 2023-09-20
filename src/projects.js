@@ -1,5 +1,13 @@
 const projects = [
   {
+    id: 6,
+    imgURL: require("./assets/images/qrcode.png"),
+    title: "xQRCode",
+    description: "An AI generated beautiful QRCode",
+    github: "https://github.com/nedTushar/ai-qrcode",
+    live: "https://xqrcode.netlify.app/",
+  },
+  {
     id: 5,
     imgURL: require("./assets/images/chatAI.png"),
     title: "PersonalAI: Jessica",
